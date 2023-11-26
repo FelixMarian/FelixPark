@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (C:\Users\Felix\Desktop\FelixPark\felixPark\felixPark\Debug\) contains files shared from another project (example_win32_directx9.vcxproj, example_win32_directx9.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  main.cpp
+C:\Users\Felix\Desktop\FelixPark\felixPark\felixPark\main.cpp(56,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+C:\Users\Felix\Desktop\FelixPark\felixPark\felixPark\main.cpp(57,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  Generating Code...
+  felixPark.vcxproj -> C:\Users\Felix\Desktop\FelixPark\felixPark\felixPark\Debug\felixPark.exe
